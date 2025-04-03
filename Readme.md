@@ -6,7 +6,7 @@ A frontend clone of the Tripadvisor homepage built using **HTML** and **CSS only
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the live project](https://yourusername.github.io/tripadvisor-clone/)  
+🌐 [Click here to view the live project](https://ulaganathan0709.github.io/Tripadvisor_Clone/)  
 > Replace the link with your actual GitHub Pages URL after deployment.
 
 ---
@@ -51,7 +51,7 @@ A frontend clone of the Tripadvisor homepage built using **HTML** and **CSS only
 
 1. Clone this repo
    ```bash
-   git clone https://github.com/yourusername/tripadvisor-clone.git
+   git clone https://github.com/Ulaganathan0709/Tripadvisor_Clone
 
 ---
 
