@@ -1,27 +1,36 @@
 # 🧭 Tripadvisor Clone
 
-A frontend clone of the Tripadvisor homepage built using **HTML** and **CSS only**, replicating key features such as the sticky navbar, animated banner, explore cards, and top experiences section.
+A **responsive frontend clone** of the TripAdvisor homepage built using **HTML** and **CSS only**. This project replicates essential UI sections like the sticky navbar, animated banner, horizontal scrollable explore section, and top-rated experience cards with rating and price.
 
 ---
 
 ## 🔗 Live Demo
 
 🌐 [Click here to view the live project](https://ulaganathan0709.github.io/Tripadvisor_Clone/)  
-> Replace the link with your actual GitHub Pages URL after deployment.
+> Hosted on GitHub Pages
 
 ---
 
 ## 🚀 Features
 
-- 🎯 Sticky navbar with logo, navigation items, language selector, and sign-in button
-- 🖼️ Animated banner section with AI travel suggestion overlay and text
-- 🌍 "Where to?" section with search and category filters
-- 🌊 Explore section with 4 equally sized tourist destination cards
-- ⭐ Top Experiences section with:
-  - Fixed card height
-  - Green dot-based rating (Tripadvisor style)
-  - Price shown right below the rating
-  - Smooth hover scale effect
+- ✅ **Sticky Navbar**
+  - Includes logo, menu items, language selector, and a sign-in button
+- 🎞️ **Animated Banner**
+  - Image cross-fade animation with AI travel suggestion overlay and CTA
+- 🔍 **"Where to?" Section**
+  - Search box with categories like Hotels, Things to do, Restaurants
+- 🌍 **Explore Section**
+  - 4 destination cards displayed in a **horizontal scrollable layout**
+  - Smooth scaling on hover
+- ⭐ **Top Experiences Section**
+  - Cards with:
+    - Fixed height
+    - Green-dot style ratings
+    - Pricing per adult
+    - Hover effects
+- 📱 **Fully Responsive**
+  - Optimized for mobile and tablet screens using media queries
+  - Scrollable sections on smaller viewports
 
 ---
 
@@ -29,27 +38,27 @@ A frontend clone of the Tripadvisor homepage built using **HTML** and **CSS only
 
 - **HTML5**
 - **CSS3**
-- **Google Fonts** (Poppins)
-- **Font Awesome** for icons
+- **Google Fonts** – *Poppins*
+- **Font Awesome** – for icons
 
 ---
 
 ## 📸 Preview
 
-### 🖼️ Banner Section  
+### 🎯 Navbar & Banner  
 ![Banner](Images/vietnam.jpg)
 
-### 🌴 Explore Section  
+### 🗺️ Explore Section  
 ![Explore](Images/japan.jpg)
 
-### ⭐ Top Experiences Section  
+### 🌟 Top Experiences Section  
 ![Top Experiences](Images/singapore.jpg)
 
 ---
 
 ## 📦 How to Use
 
-1. Clone this repo
+1. Clone this repository
    ```bash
    git clone https://github.com/Ulaganathan0709/Tripadvisor_Clone
 
